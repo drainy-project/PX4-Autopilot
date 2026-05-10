@@ -119,5 +119,6 @@ px4_add_romfs_files(
 	# [22000, 22999] Reserve for custom models
 
 	22200_gz_x500_lidar_3d_front
+	22250_gz_drainy
 	22300_gz_uuv_bluerov2_heavy
 )
